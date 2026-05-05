@@ -3880,3 +3880,13 @@ input, select, textarea {
 		}
 
 	}
+.gallery a {
+    height: auto !important;
+}
+
+.gallery a img {
+    position: relative !important;
+    width: 100% !important;
+    height: auto !important;
+    object-fit: contain !important;
+}
